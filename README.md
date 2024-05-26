@@ -79,6 +79,6 @@ Feel free to reach out to the team members who contributed to this project.
 We'd be happy to answer any questions or provide further information.
 
 * Keldin M. - [LinkedIn](https://www.linkedin.com/in/keldinm/) 
-[GitHub (You are currently here)](https://github.com/sevenwhiteclouds/)
+[GitHub](https://github.com/sevenwhiteclouds/)
 * Stacy K. - [LinkedIn](https://www.linkedin.com/in/stacy-kirchner/) [GitHub](https://github.com/puff82922/)
 * Steven C. - [LinkedIn](https://www.linkedin.com/in/caseysteven) [GitHub](https://github.com/smcaseycode)
